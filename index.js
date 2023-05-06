@@ -16,7 +16,8 @@ async function askToGPT(prompt) {
       headers: {
         "Content-Type": "application/json",
         Authorization: `Bearer ${process.env.OPENAI_API_KEY}}`,
-      },
+    {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
+     },
     }
   );
 
